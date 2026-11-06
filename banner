@@ -1,12 +1,2 @@
-Like a star shining in the night.
------------------------------------
-Device: Mi8953
-• Redmi S2/Y2 (ysl)
-• Redmi 5 (rosy)
-• Redmi 5 Plus (vince)
-• Redmi 6 Pro (sakura)
-• Redmi Note 4/4X (mido)
-• Xiaomi Mi A2 Lite (daisy)
-• Xiaomi Mi 5X (tiffany)
-By Hoshino Yoru | Yoru Prjkt
------------------------------------
+devices: mi8953
+linux: 4.19
